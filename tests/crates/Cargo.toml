@@ -13,4 +13,4 @@ anyhow = "1.0"
 flate2 = "1.0"
 rayon = "1.0"
 syn = { path = "../..", default-features = false, features = ["full", "parsing"] }
-tar = "0.4"
+tar = "0.4.40"
